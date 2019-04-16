@@ -89,6 +89,7 @@ Range = [-128] - [+127]
 #### Staircase effect 
 
 - When overlarge a bitmap image, individual pixel may become **visible**
+- zhangzhonghe shi sha bi
 
 #### Pixel 
 
